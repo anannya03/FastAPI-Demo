@@ -1,0 +1,10 @@
+fastapi==0.65.1
+starlette==0.14.2
+uvicorn==0.13.4
+pydantic==1.8.2
+h11==0.12.0
+click==7.1.2
+sqlalchemy==1.4.15
+greenlet==1.1.0
+typing-extensions==3.10.0.0
+typing==3.7.4.3
